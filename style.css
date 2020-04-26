@@ -1,0 +1,16 @@
+#portfolio{
+    padding: 200px;
+
+}
+#projects{
+    padding: 200px;
+}
+#welcome-section{
+    padding: 200px;
+}
+
+/* @media only screen and (max-width: 600px) {
+    #welcome-section{
+      background-color: lightblue;
+    }
+  } */
